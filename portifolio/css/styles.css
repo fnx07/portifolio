@@ -1,0 +1,19 @@
+body {
+
+    font-family: fantasy;
+  
+    }
+        .main {
+            color: #ffffff;
+            background-image:url("../imagens/background.png");
+        
+        }
+   
+        h1 {text-align: center;}
+        h2 {text-align: center;}
+        h3 {text-align: center;}
+    
+
+        .media {
+            text-align: center;
+        }
